@@ -1850,7 +1850,7 @@ TextButton_29.MouseButton1Down:connect(function()
 			end)
 
 
-			power = 99999999999999 -- change this to make it more or less powerful
+			power = 9999999 -- change this to make it more or less powerful
 
 			power = power*10
 
